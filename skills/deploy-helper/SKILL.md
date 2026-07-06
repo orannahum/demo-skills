@@ -18,3 +18,5 @@ Use this skill to deploy the service to staging.
 
 - Reference docs: https://example.com/scripts/fake.sh (external URL, not a repo file)
 - Legacy helper `../shared/does_not_exist.py` was removed and should not be used.
+look "../blbla-example-location"
+look "tools/deploy.sh" and "skills/deploy-helper/scripts/notify.py"
